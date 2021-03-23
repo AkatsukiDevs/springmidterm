@@ -13,14 +13,25 @@
     <form action="/blog/add" method ="post">
         <input type="text" name="title" placeholder=" Your Name" class="form-control"><br>
         <input type="text" name="anons" placeholder=" Contact Number" class="form-control"><br>
-        <textarea  name="full_text" placeholder=" Box № and additional info" class="form-control"></textarea><br>
+        <select type="text" name="full_text" class="form-control" >
+
+            <option><p>1</p></option>
+            <option><p>2</p></option>
+            <option><p>3</p></option>
+            <option><p>4</p></option>
+            <option><p>5</p></option>
+        </select>
         <button type="submit" class="btn btn-success">Order now</button>
     </form>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+
+
+</div>
+</div>
 </div>
 
 <div th:insert="blocks/footer :: footer"></div>
 
 
 </body>
-</html>
