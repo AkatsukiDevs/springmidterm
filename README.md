@@ -21,4 +21,4 @@
 * Bootstrap
 * Spring
 
-Heroki link:https://honeybox-mid.herokuapp.com/
+Heroku link:https://honeybox-mid.herokuapp.com/
