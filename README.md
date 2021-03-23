@@ -1,10 +1,6 @@
 * [General info](#general-info)
 * [API Description](#API-Description)
 * [What is used](#What-is-used)
-* [Notes](#notes)
-* [Heroku Link](#heroku-link)
-
-
 
 ## General Info
 
@@ -24,3 +20,5 @@
 * PostgreSQL
 * Bootstrap
 * Spring
+
+Heroki link:https://honeybox-mid.herokuapp.com/
